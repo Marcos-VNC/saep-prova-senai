@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\lab10\\\\Documents\\\\MARCOS VINICIUS CARDOSO CORREA\\\\prova_3_saep_senai_roberto_mange_campinas\\\\Frontend\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_56b012a6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\lab10\\\\Documents\\\\MARCOS VINICIUS CARDOSO CORREA\\\\prova_3_saep_senai_roberto_mange_campinas\\\\Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1152bc28"
+  }
+]
